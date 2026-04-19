@@ -24,7 +24,7 @@
 
 - 🌱 Currently deepening: **Agentic AI, LLM Ops, AI Product Management**
 - 💬 Ask me about: **LangChain, LangGraph, RAG, Multi-Agent Systems, AI Product Thinking**
-- 📫 Reach me at: **manushukla0210@gmail.com**
+- 📫 Reach me at: **manushukla0210@gmail.com/aipmmanu@gmail.com**
 - ⚡ Fun fact: I once fixed a 40% data error rate that wasn't in anyone's requirements — just noticed it
 
 ---
