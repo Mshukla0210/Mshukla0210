@@ -179,5 +179,5 @@
 ---
 
 <p align="center">
-  <i>"I build what users need — including what they haven't asked for yet."</i>
+  <i>"I build what users need to give them best product and its features"</i>
 </p>
